@@ -1,0 +1,7 @@
+
+{python:S117"]Rename this local variable "allEdgeTypes" to match the regular expression ^[_a-z][a-z0-9_]*$.(áïçå8•ÆØ¶ã1
+zpython:S117"\Rename this local variable "allSrcWords" to match the regular expression ^[_a-z][a-z0-9_]*$.(áïçå8•ÆØ¶ã1
+zpython:S117"\Rename this local variable "allTgtWords" to match the regular expression ^[_a-z][a-z0-9_]*$.(áïçå8•ÆØ¶ã1
+wpython:S117"YRename this local variable "allWords" to match the regular expression ^[_a-z][a-z0-9_]*$.(íËÖà8•ÆØ¶ã1
+ppython:S100™"LRename method "getIndex" to match the regular expression ^[a-z_][a-z0-9_]*$.(öÄüıÿÿÿÿ8•ÆØ¶ã1
+jpython:S100œ"KRename method "getWord" to match the regular expression ^[a-z_][a-z0-9_]*$.(¨±ø±8•ÆØ¶ã1

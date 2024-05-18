@@ -1,0 +1,10 @@
+
+upython:S1192Õ"PDefine a constant instead of duplicating this literal r'[^A-Za-z0-9 ]+' 3 times.(¬‰Û¼üÿÿÿÿ8¶¹Š˜î1
+fpython:S2208"GImport only needed names or import the module and then use its members.(ö€éÃ8¶¹Š˜î1
+spython:S3776*"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¡ Ÿ‚8·¹Š˜î1
+[python:S5754H"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8·¹Š˜î1
+[python:S5754X"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8·¹Š˜î1
+xpython:S3776l"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(¿âÞøÿÿÿÿ8·¹Š˜î1
+ypython:S3776Ë"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÆñÞþøÿÿÿÿ8¸¹Š˜î1
+opython:S930å"PRemove 1 unexpected arguments; 'normalize_graph' expects 1 positional arguments.(ÕÞãî8¹¹Š˜î1
+ypython:S3776ñ"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(•É«Ãÿÿÿÿÿ8¹¹Š˜î1
