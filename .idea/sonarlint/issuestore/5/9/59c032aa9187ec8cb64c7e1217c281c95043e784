@@ -1,18 +1,0 @@
-
-kpython:S2208"GImport only needed names or import the module and then use its members.(»ð¡úÿÿÿÿ8ùš€½ë1
-=python:S125-"Remove this commented out code.(ÔµŽ×8úš€½ë1
-=python:S125E"Remove this commented out code.(ØÃö…8úš€½ë1
-xpython:S3776L"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÔùÙÅûÿÿÿÿ8ûš€½ë1
-=python:S125m"Remove this commented out code.(ÔÀÒä8üš€½ë1
-Bpython:S125r"Remove this commented out code.(Ý±Ê«úÿÿÿÿ8üš€½ë1
-Bpython:S125v"Remove this commented out code.(§ï¹ðúÿÿÿÿ8üš€½ë1
-Cpython:S125ƒ"Remove this commented out code.(Äó“¶úÿÿÿÿ8üš€½ë1
-Cpython:S125‹"Remove this commented out code.(ð¤²Æøÿÿÿÿ8üš€½ë1
->python:S125™"Remove this commented out code.(ù¥ê–8üš€½ë1
->python:S125¼"Remove this commented out code.(÷–Øª8ýš€½ë1
->python:S125Ï"Remove this commented out code.(€µÁÉ8ýš€½ë1
-Kpython:S5806ã"+Rename this variable; it shadows a builtin.(µ½Ä¿8ýš€½ë1
-qpython:S117‘"MRename this parameter "S" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿÷ÎÌþÿÿÿÿ8ýš€½ë1
->python:S125’"Remove this commented out code.(É­ƒ™8ýš€½ë1
-Jpython:S1481º"%Remove the unused local variable "f".(‡†²¬ýÿÿÿÿ8ýš€½ë1
-Kpython:S1481¼"&Remove the unused local variable "sc".(ª©«ëûÿÿÿÿ8ýš€½ë1
